@@ -1,0 +1,33 @@
+.header{
+    color: green;
+    background-color: orange;
+    cursor: pointer;
+    text-align: center;
+}
+
+.header-1{
+    text-align: center;
+}
+
+.header-1 img{
+    margin: 5px;
+}
+
+.navbar{
+    background-color: greenyellow;
+}
+
+.nav-link{
+    color: white !important;
+    font-size: 28px;
+    font-weight: 700;
+    transition:0.5s;
+}
+
+.nav-link:hover{
+    background-color: crimson;
+    color: crimson;
+    color: white;
+    border-radius: 17px;
+}
+
